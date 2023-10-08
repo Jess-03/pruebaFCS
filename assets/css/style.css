@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo_capacitate {
+  max-width: 250px;
+}
+
+.navbar2 {
+  display: flex;
+  justify-content: end;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.link{
+  color: #919191;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #a3bf3e;
+}
+
+.usuario-icono{
+  width: 42px;
+}
+
+.main {
+  height: 180px;
+  color: #005a71;
+}
+
+.edit-btn{
+  color: #005a71;
+  border: 1px solid #005a71;
+}
+
+.edit-btn:hover{
+  background-color: #005a7167;
+  color: #fff;
+}
+
+.avatar_img {
+  height: 90px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+#email{
+  font-weight: 300;
+  font-size: .8rem;
+}
+
+.nav-link{
+  font-size: 14px;
+  color: #919191;
+}
+
+.nav-link:hover{
+  color: #a3bf3e;
+}
+
+.buscar {
+  width: auto;
+}
+
+.course-img {
+  width: 100px;
+  background-color: #19aaa3;
+}
+
+.course-title {
+  color: #19aaa3;
+  text-shadow: 0px 0px 20px #19aaa3;
+}
+
+.avance {
+  font-weight: 500;
+  background-color: #19aaa3;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.bg-circle{
+  height: 68px;
+  width: 68px;
+  border-radius: 100px;
+  background: radial-gradient(
+    circle 31px, 
+    #19aaa34a, 
+    #ffffff00);
+}
+
+.print{
+  background-color: #a3bf3e;
+}
+
+.print:hover{
+  background-color: #a3bf3ed0;
+}
