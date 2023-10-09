@@ -45,7 +45,7 @@
 
 .avatar_img {
   height: 90px;
-  border: 1px solid black;
+  border: 1px solid #005a7167;
   border-radius: 50%;
 }
 
@@ -75,16 +75,17 @@
 .course-title {
   color: #19aaa3;
   text-shadow: 0px 0px 20px #19aaa3;
-}
+} 
 
-.avance {
+.course-advance {
   font-weight: 500;
   background-color: #19aaa3;
   color: #fff;
   border-radius: 10px;
 }
 
-.bg-circle{
+.bg-circle, 
+.circle{
   height: 68px;
   width: 68px;
   border-radius: 100px;
